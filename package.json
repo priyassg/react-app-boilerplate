@@ -2,7 +2,7 @@
   "name": "react-app-boilerplate",
   "version": "1.0.0",
   "description": "Setting up a react app from scratch",
-  "main": "index.js",
+  "private": true,
   "author": "Priya Gupta",
   "license": "ISC",
   "keywords": [
