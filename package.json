@@ -3,14 +3,20 @@
   "version": "1.0.0",
   "description": "Setting up a react app from scratch",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
+  "author": "Priya Gupta",
+  "license": "ISC",
   "keywords": [
     "react",
     "javascript",
     "webpack"
   ],
-  "author": "Priya Gupta",
-  "license": "ISC"
+
+  "scripts": {
+    "test": "test"
+  },
+  
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
 }
