@@ -10,13 +10,14 @@
     "javascript",
     "webpack"
   ],
-
   "scripts": {
     "test": "test"
   },
-  
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.89.0"
   }
 }
